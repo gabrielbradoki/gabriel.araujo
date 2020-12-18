@@ -1,4 +1,4 @@
-## What's up 👋 I'm Gabriel Araujo, I like so much Soccer ⚽, Apple news 📱💻, Videogames 🎮, Books 📚 and Podcast 🎧.
+## What's up welcome my GitHub 👋 I'm Gabriel Araujo, I like so much Soccer ⚽, Apple news 📱💻, Videogames 🎮, Books 📚 and Podcast 🎧.
 ![](https://visitor-badge.laobi.icu/badge?page_id=gabrielbradoki.gabrielbradoki) [![Github](https://img.shields.io/github/followers/gabrielbradoki?label=Followers&logo=Github)](https://github.com/gabrielbradoki)
 
 
@@ -10,15 +10,6 @@
 - ⚡ Fun fact: I love playing FIFA and Console video games.
 - 🎧 I'm podcast addict.
 
-
-## :email: Find me on:
-
-<!--
-[<img align="left" alt="Gabriel Araujo | LinkedIn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" />][linkedin]
-[<img align="left" alt="Gabriel Araujo | Mail" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png" />][mail]
-[<img align="left" alt="Gabriel Araujo | Telegram" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][hello](https://t.me/)
--->
-<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
